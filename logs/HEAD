@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 8446bfec1e61ec9601990eead542f4e0500b99e3 cloudvyy <cloudvy086@gmail.com> 1730364854 +0700	commit (initial): Initial commit of Twitter Giveaway Picker project
+8446bfec1e61ec9601990eead542f4e0500b99e3 10559e2a5fcd7314d6d5504615107419c7bdd3ac cloudvyy <cloudvy086@gmail.com> 1730364910 +0700	commit: Add .env to .gitignore for security
